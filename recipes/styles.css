@@ -1,0 +1,19 @@
+.banana {
+width:400px; height: auto;
+}
+
+.name { 
+background-color: yellow;
+color: brown;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+color:darkblue;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+background-color: darkgoldenrod;
+
+}
